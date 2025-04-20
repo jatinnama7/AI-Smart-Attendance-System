@@ -42,6 +42,36 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlkMzE2ZTQxMzFiN2FiM2MwMzljMDNjYTZkNTY5YzU4ZmVhZWY2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rAIpeNskWfE6wvWyZG/giphy.gif" width="70%" />
 </p>
+<br>
+<br>
+
+## 🖼️ Project Snapshots
+
+<p align="center">
+  <img src="demo_images/dashboard.png" alt="👁️ Real-Time Face Detection" width="60%" />
+  &nbsp;&nbsp;
+
+<p align="center">
+  <b>👁️ Real-Time Face Detection</b> &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br>
+<p align="center">
+  <img src="demo_images/secure.jpg" alt="🔐 Admin Panel with CSV Export" width="60%" />
+  &nbsp;&nbsp;
+
+
+<p align="center">
+  <b>🔐 Admin Panel with CSV Export</b> &nbsp;&nbsp;&nbsp;&nbsp; 
+</p>
+<br>
+<p align="center">
+  <img src="demo_images/UI.jpg" alt="🎉 Animated Check-in/Check-out Popup" width="60%" />
+  &nbsp;&nbsp;
+
+
+<p align="center">
+  <b>🎉 Animated Check-in/Check-out Popup</b> &nbsp;&nbsp;&nbsp;&nbsp; 
+</p>
 
 ---
 
