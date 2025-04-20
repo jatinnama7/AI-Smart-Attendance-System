@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Face_Recognition-Model-blueviolet?style=for-the-badge" />
 </p>
 
----
 
 > 📸 A real-time attendance system powered by face recognition, MongoDB GridFS storage, and animated Streamlit UI/UX. Designed for seamless check-in/out with admin-secured CSV download and intuitive user experience.
 
@@ -40,7 +39,6 @@
 > 🔒 Password-protected admin download zone
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlkMzE2ZTQxMzFiN2FiM2MwMzljMDNjYTZkNTY5YzU4ZmVhZWY2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rAIpeNskWfE6wvWyZG/giphy.gif" width="70%" />
 </p>
 <br>
 <br>
@@ -216,6 +214,5 @@ See the [LICENSE](LICENSE) file for full info.
 <p align="center">
   <img src="https://img.shields.io/github/stars/jatinnama7/AI-Smart-Attendance-System?style=social" />
 </p>
-```
 
 ---
