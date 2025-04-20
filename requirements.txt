@@ -2,7 +2,6 @@ streamlit
 bcrypt
 python-dotenv
 pymongo
-gridfs
 face_recognition
 opencv-python-headless
 numpy
